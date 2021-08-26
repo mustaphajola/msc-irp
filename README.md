@@ -22,6 +22,20 @@ https://user-images.githubusercontent.com/72414090/130993274-ce1b333a-beeb-4fea-
 
 ![vort_snapshot](https://user-images.githubusercontent.com/72414090/130993558-d922b8ea-35d8-4ee6-bc83-5d83d0ef24e6.jpg)
 
+### Generative Models
+
+#### WGAN- GP 
+
+**Architecture** 
+
+**Hyperparamters**
+
+#### AAE 
+
+**Architecture**
+
+**Hyperparamters**
+
 
 ## Prerequisites
 
