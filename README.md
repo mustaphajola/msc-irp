@@ -14,7 +14,8 @@ The dataset in this project comprises of 12,000 trajectories of 2-d vortices rep
  - Constant viscosity
  - Boundary condition: no slip walls
 
-[sample snapshots](images/vort_snapshot.jpg)
+![vort_snapshot](https://user-images.githubusercontent.com/72414090/130993558-d922b8ea-35d8-4ee6-bc83-5d83d0ef24e6.jpg)
+
 
 
 https://user-images.githubusercontent.com/72414090/130993274-ce1b333a-beeb-4fea-9566-ff80f39e2161.mp4
