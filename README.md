@@ -50,10 +50,12 @@ Distributed under the MIT license. See `License` for more information.
 
 ## Acknowledgements
 
-The supervisors of this project are: Prof. Christopher Pain, Dr. Claire Healy and Vinicius, Santos Silva (Ph.D. student).
+- Prof. Christopher Pain
+- Dr. Claire Healy 
+- Vinicius, Santos Silva (Ph.D. student).
+- Royal School of Mines
 
-I would also like to acknowledge the following people for their contributions through discussions and resource-sharing: Nenko Nenov, Lily Hua and Danhui Shao. 
-Finally, I would like to thank the Royal School of Mines for this opportunity. 
+I would also like to acknowledge the contributions of Nenko Nenov, Lily Hua and Danhui Shao through discussions and resource-sharing. 
 
 Mustapha Jolaade
 08/26/2021
