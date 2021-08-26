@@ -1,4 +1,5 @@
-# msc-irp (M.sc. Individul Research Project)
+# msc-irp 
+(M.sc. Individul Research Project)
 
 ## Prediction and Data Assimilation Using Generative Models for 2D Turbulent Fluid Modelling
 
