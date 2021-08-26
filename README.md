@@ -10,15 +10,16 @@ This project was completed as part of fulfillment of Msc in Applied Computationa
 
 ## Prerequisites
 
-## Installation
-
-## Getting Started
+## Reproducibility
 
 ## Examples
 
+
 ## License
+Distributed under the MIT license. See `License` for more information.
 
 ## Contact
+- Mustapha Jolaade jolaademustapha@yahoo.com
 
 ## Acknowledgements
 
