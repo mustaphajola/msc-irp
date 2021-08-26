@@ -1,24 +1,25 @@
-# Prediction and Data Assimilation Using Generative Models for 2D Turbulent Fluid Modelling
+# msc-irp (M.sc. Individul Research Project)
+
+## Prediction and Data Assimilation Using Generative Models for 2D Turbulent Fluid Modelling
 
 
-
-# About The Project
+## About The Project
 
 This project was completed as part of fulfillment of Msc in Applied Computational Science and Engineering (ACSE) requirement at the Department of Earth Science and Engineering, Imperial College London. 
 
-# Prerequisites
+## Prerequisites
 
-# Installation
+## Installation
 
-# Getting Started
+## Getting Started
 
-# Examples
+## Examples
 
-# License
+## License
 
-# Contact
+## Contact
 
-# Acknowledgements
+## Acknowledgements
 
 The supervisors of this project are: Prof. Christopher Pain, Dr. Claire Healy and Vinicius, Santos Silva (Ph.D. student).
 
