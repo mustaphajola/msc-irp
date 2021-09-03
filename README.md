@@ -24,22 +24,24 @@ https://user-images.githubusercontent.com/72414090/130993274-ce1b333a-beeb-4fea-
 
 ### Generative Models
 
+#### Methodology
+
+Prediction Methodology using AAE
+![AAE_workflow](https://user-images.githubusercontent.com/72414090/132031730-e830362a-32d7-4bf9-81cc-6775df1480e2.png)
+
+Prediction Methodology using WGAN-GP
+![GAN_pt1](https://user-images.githubusercontent.com/72414090/132031760-71967a31-dbc6-4444-9358-47aff0cf6244.jpg)
+
 #### WGAN- GP 
 
-**Architecture** 
-
-**Hyperparamters**
-
-#### AAE 
-
-**Architecture**
-
-**Hyperparamters**
+**Architecture and Hyperparameter** 
+![generator_arc](https://user-images.githubusercontent.com/72414090/132031548-1d6c633f-7072-449c-aec8-1e06672298b7.png)
 
 
 ## Prerequisites
+More info can be found in the environment.yml file.
 
-## Results and reproducibility
+## Results 
 
 
 ## License
