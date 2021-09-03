@@ -1,4 +1,0 @@
-'''
-Data Assimilation using PredGAN
-
-'''
