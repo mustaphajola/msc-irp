@@ -67,7 +67,7 @@ Forward prediction was performed using the above algorithm. The input to each ge
 
 ![image](https://user-images.githubusercontent.com/72414090/132218250-c71de12a-6b16-48c1-95d6-82221faabb44.png)
 
-The bottom row images show the magnitude of the vortices projected unto a 1D linear domain. The vertical axis is the magnitude of the vortices while the horizontal axis represents teh spatial dimension.
+The bottom row images show the magnitude of the vortices projected unto a 1D linear domain. The vertical axis is the magnitude of the vortices while the horizontal axis represents the spatial dimension. Vorticity in blue plots represents the original trajectory while orange plots represent the preedicted trajectory.
 
 **WGAN-GP Prediction Results**
 
